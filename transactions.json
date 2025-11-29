@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": 7797765900,
+    "type": "admin_add",
+    "amount": 20.0,
+    "details": "Admin added balance",
+    "timestamp": "2025-11-29T20:59:19.099025",
+    "commission": 0
+  },
+  {
+    "user_id": 7797765900,
+    "type": "withdraw",
+    "amount": 10.0,
+    "details": "LTC to LLQtaBnSAFpCFUw5cXRRka7Nvtrs4Up9bH",
+    "timestamp": "2025-11-29T21:11:50.206089",
+    "commission": 0
+  },
+  {
+    "user_id": 7797765900,
+    "type": "withdraw",
+    "amount": 10.0,
+    "details": "LTC to LLQtaBnSAFpCFUw5cXRRka7Nvtrs4Up9bH",
+    "timestamp": "2025-11-29T21:12:19.664622",
+    "commission": 0
+  }
+]
